@@ -5,5 +5,5 @@ This is the main repository for all of the projects in the course.
 
 | #   | Project                       | Live Demo     |
 |-----|-------------------------------|---------------|
-| 01  | [Expanding ResponsiveSimpleCalculator](#)         | [Live Demo](https://github.com/MahmoudKhaled122/fdfssdw/ResponsiveSimpleCalculator) |
+| 01  | [Expanding ResponsiveSimpleCalculator](#)         | [Live Demo](https://mahmoudkhaled122.github.io/fdfssdw/ResponsiveSimpleCalculator/) |
 | 02  | [Progress Steps](#)          | [Live Demo](#) |
