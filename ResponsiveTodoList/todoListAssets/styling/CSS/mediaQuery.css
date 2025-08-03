@@ -10,7 +10,7 @@
         box-shadow: 0px 0px 6px 3px var(--peach);
     }
     .to-do-list-container .main-heading{
-        font-size: 20px;
+        font-size: 16px;
         font-weight: 600;
         box-shadow: 0px 0px 5px 3px var(--maroon);
     } 
@@ -277,4 +277,5 @@
     .to-do-list-container .to-do-list-inputs-container .to-do-list-form-container  .added-button::after{
         border-width: 4px;
     }
+
 }
